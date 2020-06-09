@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dee5eff1-2d28-4069-a802-a8ea09826132" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectePROP-Grup11-Subgrup1.5-Entrega1/.idea/projecte.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectePROP-Grup11-Subgrup1.5-Entrega1/.idea/projecte.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectePROP-Grup11-Subgrup1.5-Entrega1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectePROP-Grup11-Subgrup1.5-Entrega1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXE/production/projecte/model/jpeg/Huffman.class" beforeDir="false" afterPath="$PROJECT_DIR$/EXE/production/projecte/model/jpeg/Huffman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXE/production/projecte/model/jpeg/Imatge.class" beforeDir="false" afterPath="$PROJECT_DIR$/EXE/production/projecte/model/jpeg/Imatge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FONTS/model/jpeg/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/FONTS/model/jpeg/Huffman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FONTS/model/jpeg/Imatge.java" beforeDir="false" afterPath="$PROJECT_DIR$/FONTS/model/jpeg/Imatge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HuffmanTable/AC_chrominance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HuffmanTable/AC_luminance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HuffmanTable/DC_chrominance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HuffmanTable/DC_luminance.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TnebxrNfu8dLFiEGFZDXLJRsgc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Algorisme">
+    <configuration name="Algorisme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.Algorisme" />
+      <module name="projecte" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver_LZ78 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_222" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="model.lz78.Driver_LZ78" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.lz78.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver_LZ78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.lz78.Driver_LZ78" />
+      <module name="projecte" />
+      <option name="PROGRAM_PARAMETERS" value="decodifica index.lz78" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.lz78.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Melon" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="projecte" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="codifica index.txt" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="projecte" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="codifica index.txt" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Driver_LZ78" />
+      <item itemvalue="Application.Driver_LZ78 (1)" />
+      <item itemvalue="Application.Algorisme" />
+      <item itemvalue="Kotlin.Melon" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Algorisme" />
+        <item itemvalue="Application.Driver_LZ78" />
+        <item itemvalue="Application.Driver_LZ78 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee5eff1-2d28-4069-a802-a8ea09826132" name="Default Changelist" comment="" />
+      <created>1574100361370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574100361370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
