@@ -1,0 +1,5 @@
+Directori /FONTS:
+
+/model: Conte tot el codi implementat al projecte en java
+
+- makefile: Makefile que permet generar tots els Drivers del codi a la carpeta /EXE del projecte

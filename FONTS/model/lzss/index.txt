@@ -1,0 +1,3 @@
+Directori /FONTS/model/lzss:
+
+- Classes de java pertinents per tal d'implementar el algorisme de compressio LZSS, explicat la funcionalitat de cada classe, al codi java.

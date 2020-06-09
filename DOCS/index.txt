@@ -1,0 +1,5 @@
+Directori Docs:
+
+- 1a_Entrega_Subgrup1-5.pdf: Conte la documentacio del projecte.
+- DiagramaCasosUs.png: Amb millor qualitat que a la documentacio.
+- DiagramaDeClases.png: Amb millor qualitat que a la documentacio.

@@ -1,0 +1,7 @@
+Directori base del projecte:
+
+/DOCS: trobem el diagrama de casos d'us, el diagrama en UML, i la documentacio de la primera entrega referent a l'explicacio requerida
+/EXE: trobarem tots els fitxers .class referents a cada driver per cada algorisme, i un makefile per poder executar el driver que volguem
+/FONTS: trobem tot el codi en Java del projecte, i un makefile per poder generar els Drivers a la carpeta EXE
+
+ - descripcio.txt: Conte la informacio del grup, noms i adreces electroniques

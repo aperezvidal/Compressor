@@ -1,0 +1,8 @@
+Directori FONTS
+Trobem tot el codi del projecte. 
+/jpeg: codi de l'algorisme jpeg
+/lz78: codi de l'algorisme lz78
+/lzss: codi de l'algorisme lzss
+/lzw: codi de l'algorisme lzw
+
+- Fitxers: codi necessari per a mes d'un algorisme LZ
